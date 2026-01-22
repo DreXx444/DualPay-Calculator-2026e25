@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dualpay-v3-final';
+const CACHE_NAME = 'dualpay-v4';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', (e) => {
