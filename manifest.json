@@ -1,9 +1,9 @@
 {
   "name": "DualPay Calculator 2026",
   "short_name": "DualPay 26",
-  "description": "Калкулатор за пресмятане на ресто в смесена валута.",
-  "id": "/DualPay-Calculator-2026/",
-  "start_url": "./index.html",
+  "description": "Калкулатор за евро и лева",
+  "id": "dualpay-2026-v1",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#05080f",
   "theme_color": "#3b82f6",
@@ -18,21 +18,7 @@
       "src": "https://cdn-icons-png.flaticon.com/512/10384/10384160.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/10384/10384160.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/10384/10384160.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
+      "purpose": "any"
     }
   ]
 }
