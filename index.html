@@ -149,6 +149,13 @@
     </main>
 
     <script>
+        // РЕГИСТРАЦИЯ НА PWA
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+}
+
+const RATE = 1.95583;
+// ... останалия ти код ...
         const RATE = 1.95583;
         let mode = 'EUR', changeBGN = 0;
 
