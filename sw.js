@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dualpay-v2';
+const CACHE_NAME = 'dualpay-v3';
 const ASSETS = [
     'index.html',
     'manifest.json',
